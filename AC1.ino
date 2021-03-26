@@ -1,7 +1,7 @@
 //variaveis da led
 const int vermelho = 5;
 const int verde = 6;
-const int azul = 7
+const int azul = 7;
 
 bool estadoLedVermelho = false;
 
@@ -16,13 +16,13 @@ void setup()
   
   pinMode(vermelho, OUTPUT);
   pinMode(verde, OUTPUT);
-  pinMode(azul, saida);
+  pinMode(azul, OUTPUT);
   
   Serial.begin(9600);
 	
   Serial.println("AC1 - Meu Primeiro Projeto 2021");
-  Serial.println("                           V1.0");
-  Serial.println("Grupo: NOME AQUI               ");
+  Serial.println("V1.0");
+  Serial.println("Grupo: NOME AQUI");
 }
 
 void loop()
