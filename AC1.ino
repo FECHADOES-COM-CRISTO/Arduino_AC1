@@ -22,7 +22,7 @@ void setup()
 	
   Serial.println("AC1 - Meu Primeiro Projeto 2021");
   Serial.println("V1.0");
-  Serial.println("Grupo: NOME AQUI");
+  Serial.println("FECHADOES COM CRISTO");
 }
 
 void loop()
@@ -33,10 +33,10 @@ void loop()
   	lastDebounceTime1 = millis();
   }
   
-  if(getTemperatura() > 30){
+  if(getTemperatura() > 25){
     ledAzul(true);
   }else{
-  	ledAzul(falso); 
+  	ledAzul(false); 
   }
   	
   delay(10);
