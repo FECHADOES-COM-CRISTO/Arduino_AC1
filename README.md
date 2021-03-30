@@ -8,6 +8,11 @@ Use o FORK para adicionar esse projeto a sua organização antes de começar.
 
 ![](https://github.com/FECHADOES-COM-CRISTO/Arduino_AC1/blob/main/foto%20do%20tikercad%20do%20trabalho.PNG)
 
+## Biografias
+
+
+
+
 ## **O PROBLEMA:** 
 
 Seu grupo foi contratado para realizar a automação do chão de fábrica de uma farmacêutica responsável por produzir doses de vacina, a automação levará em conta alguns sensores e avisos luminosos para os funcionários responsáveis pela produção.
