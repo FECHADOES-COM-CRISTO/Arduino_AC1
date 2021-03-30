@@ -9,8 +9,9 @@ Use o FORK para adicionar esse projeto a sua organização antes de começar.
 ![](https://github.com/FECHADOES-COM-CRISTO/Arduino_AC1/blob/main/foto%20do%20tikercad%20do%20trabalho.PNG)
 
 ## Biografias
-
-
+![](https://github.com/FECHADOES-COM-CRISTO/Arduino_AC1/blob/main/ft%20git.PNG)
+Gabriel Fernando Gimenez, 17 anos
+Trabalho com a atualização do Github
 
 
 ## **O PROBLEMA:** 
