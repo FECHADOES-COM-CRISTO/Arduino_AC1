@@ -11,11 +11,11 @@ Use o FORK para adicionar esse projeto a sua organização antes de começar.
 ## Biografias
 ![](https://github.com/FECHADOES-COM-CRISTO/Arduino_AC1/blob/main/ft%20git.PNG)
 Gabriel Fernando Gimenez, 17 anos.
-Trabalho com a atualização do Github
+Trabalho com a atualização do Github.
 
 ![](https://github.com/FECHADOES-COM-CRISTO/Arduino_AC1/blob/main/ZhO4TC32_400x400.jpg)
 Felipe Cella, 16 anos.
-Responsável pela atualização do código no tinkercad
+Responsável pela atualização do código no Tinkercad.
 
 
 ## **O PROBLEMA:** 
