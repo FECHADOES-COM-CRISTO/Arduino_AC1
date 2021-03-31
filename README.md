@@ -17,6 +17,9 @@ Trabalho com a atualização do Github.
 Felipe Cella, 16 anos.
 Responsável pela atualização do código no Tinkercad.
 
+![](https://github.com/FECHADOES-COM-CRISTO/Arduino_AC1/blob/main/foto%20fellipe.jpg)
+fellipe sousa, 18 anos.
+Responsável pela atualização do código no Tinkercad.
 
 ## **O PROBLEMA:** 
 
