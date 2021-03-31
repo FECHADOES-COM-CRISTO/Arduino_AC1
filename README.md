@@ -21,8 +21,9 @@ Responsável pela atualização do código no Tinkercad.
 fellipe sousa, 18 anos.
 Responsável pela atualização do código no Tinkercad
 
-!.[](https://github.com/FECHADOES-COM-CRISTO/Arduino_AC1/blob/main/WhatsApp%20Image%202021-03-31%20at%2010.13.46.jpeg)
+![](https://github.com/FECHADOES-COM-CRISTO/Arduino_AC1/blob/main/WhatsApp%20Image%202021-03-31%20at%2010.13.46.jpeg)
 Matheus Rocha,17 anos.
+
 ## **O PROBLEMA:** 
 
 Seu grupo foi contratado para realizar a automação do chão de fábrica de uma farmacêutica responsável por produzir doses de vacina, a automação levará em conta alguns sensores e avisos luminosos para os funcionários responsáveis pela produção.
