@@ -13,6 +13,10 @@ Use o FORK para adicionar esse projeto a sua organização antes de começar.
 Gabriel Fernando Gimenez, 17 anos
 Trabalho com a atualização do Github
 
+![](https://github.com/FECHADOES-COM-CRISTO/Arduino_AC1/blob/main/ZhO4TC32_400x400.jpg)
+Felipe Cella, 16 anos
+Responsável pela atualização do código no tinkercad
+
 
 ## **O PROBLEMA:** 
 
